@@ -25,7 +25,7 @@ function mytheme_setup_theme_supported_features() {
         ),
         array(
             'name' => __( 'White', 'epec-custom-palette'),
-            'slug' => 'White',
+            'slug' => 'white',
             'color' => '#FFFFFF',
         ),
     ) );
