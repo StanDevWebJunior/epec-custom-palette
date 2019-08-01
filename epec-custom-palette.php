@@ -9,24 +9,24 @@ Author: Too Luck
 function mytheme_setup_theme_supported_features() {
     add_theme_support( 'editor-color-palette', array(
         array(
-            'name' => __( 'tomato', 'epec-custom-palette'),
-            'slug' => 'tomato',
-            'color' => '#FF6347',
-        ),
-        array(
-            'name' => __( 'purple', 'epec-custom-palette'),
-            'slug' => 'purple',
+            'name' => __( 'Brand Color 1', 'epec-custom-palette'),
+            'slug' => 'brand-color-1',
             'color' => '#6128A1',
         ),
         array(
-            'name' => __( 'green', 'epec-custom-palette'),
-            'slug' => 'green',
-            'color' => '#008000',
+            'name' => __( 'Brand Color 2', 'epec-custom-palette'),
+            'slug' => 'brand-color-2',
+            'color' => '#E94B59',
         ),
         array(
-            'name' => __( 'orange', 'epec-custom-palette'),
-            'slug' => 'orange',
-            'color' => '#FF4500',
+            'name' => __( 'Very Dark Gray', 'epec-custom-palette'),
+            'slug' => 'very-dark-gray',
+            'color' => '#111111',
+        ),
+        array(
+            'name' => __( 'White', 'epec-custom-palette'),
+            'slug' => 'White',
+            'color' => '#FFFFFF',
         ),
     ) );
 }

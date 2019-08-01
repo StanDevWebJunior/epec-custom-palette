@@ -1,32 +1,34 @@
                                              /*BACKGROUND COLOR */
-.has-tomato-background-color{
-    background-color: #FF6347
+.has-brand-color-1-background-color{
+    background: #6128A1;
+} 
+
+.has-brand-color-2-background-color{
+    background: #E94B59;
 }
 
-.has-purple-background-color{
-background-color: #6128A1;
+.has-very-dark-gray-background-color{
+    background: #111111!important;
+} 
+
+.has-white-background-color{
+    background: #FFFFFF!important;
 }
 
-.has-green-background-color{
-background-color: #008000;
-}
 
-.has-orange-background-color{
-  background-color: #FF4500;
-}
                                                  /* COLOR */
-.has-tomato-color{
-    color: #FF6347
-}
-
-.has-purple-color{
+.has-brand-color-1-color{
     color: #6128A1;
 }
 
-.has-green-color{
-    color: #008000;
+.has-brand-color-2-color{
+    color: #E94B59;
 }
 
-.has-orange-color{
-    color: #FF4500;
+.has-very-dark-gray-color{
+    color: #111111!important;
+}
+
+.has-white-color{
+    color: #FFFFFF!important;
 }
