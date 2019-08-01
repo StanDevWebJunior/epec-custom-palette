@@ -1,0 +1,40 @@
+# Copyright (C) 2019 Custom Colors Palette by Promo EPEC
+# This file is distributed under the same license as the Custom Colors Palette by Promo EPEC package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Colors Palette by Promo EPEC 0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/epec-custom-palette\n"
+"POT-Creation-Date: 2019-08-01 10:01:55+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: epec-custom-palette.php:12
+msgid "tomato"
+msgstr ""
+
+#: epec-custom-palette.php:17
+msgid "purple"
+msgstr ""
+
+#: epec-custom-palette.php:22
+msgid "green"
+msgstr ""
+
+#: epec-custom-palette.php:27
+msgid "orange"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Custom Colors Palette by Promo EPEC"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "un plugin pour personnaliser une palette de couleur"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Too Luck"
+msgstr ""
