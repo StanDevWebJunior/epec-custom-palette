@@ -35,7 +35,6 @@ add_action( 'after_setup_theme', 'mytheme_setup_theme_supported_features' );
 
 
 function my_scripts() {
-    wp_enqueue_script( 'jquery' );
     wp_register_style( 'prefix-style', plugins_url('app.css', __FILE__) );
     wp_enqueue_style( 'prefix-style' );
     }
